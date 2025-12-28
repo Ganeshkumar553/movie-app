@@ -22,8 +22,3 @@ A **React-based movie browsing application** that allows users to explore popula
 
 ## 🌐 Live Demo
 Deployed on Vercel: [cinemabox-app.vercel.app](https://cinemabox-app.vercel.app)
-
-## 📂 Installation & Setup
-1. Clone the repository:  
-```bash
-git clone https://github.com/Ganeshkumar553/movie-app.git
