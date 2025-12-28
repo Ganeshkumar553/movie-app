@@ -23,7 +23,7 @@ A React-based movie browsing application that allows users to explore popular mo
 
 ## 🌐 Live Demo
 👉 Deployed on Vercel  
-(Add your live link here)
+(cinemabox-app.vercel.app)
 
 ## 📂 Installation & Setup
 ```bash
